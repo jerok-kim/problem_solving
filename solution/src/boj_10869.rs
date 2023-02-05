@@ -15,11 +15,11 @@ fn input_integers() -> Vec<i32> {
 }
 
 fn main() {
-    let year = input_integers()[0];
+    let nums = input_integers();
 
-    if year % 4 == 0 && (year % 400 == 0 || year % 100 != 0) {
-        println!("1");
-    } else {
-        println!("0");
-    }
+    println!("{}", nums[0] + nums[1]);
+    println!("{}", nums[0] - nums[1]);
+    println!("{}", nums[0] * nums[1]);
+    println!("{}", nums[0] / nums[1]);
+    println!("{}", nums[0] % nums[1]);
 }

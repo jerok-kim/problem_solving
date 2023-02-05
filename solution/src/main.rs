@@ -20,6 +20,16 @@ mod boj_2587;
 mod boj_2309;
 mod boj_10093;
 mod boj_10171;
+mod boj_10869;
+mod boj_1267;
+mod boj_10804;
+mod boj_15552;
+mod boj_10808;
+mod boj_2577;
+mod boj_1475;
+mod boj_3273;
+mod boj_10807;
+mod boj_13300;
 
 fn main() {
     println!("Hello, world!");
