@@ -37,6 +37,8 @@ mod boj_1914;
 mod boj_1158;
 mod boj_10828;
 mod boj_17298;
+mod boj_3190;
+mod boj_2212;
 
 fn main() {
     println!("Hello, world!");
