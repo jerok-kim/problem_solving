@@ -39,6 +39,12 @@ mod boj_10828;
 mod boj_17298;
 mod boj_3190;
 mod boj_2212;
+mod boj_10430;
+mod boj_4375;
+mod boj_1037;
+mod boj_2667;
+mod pgmrs_ponketmon;
+mod boj_9012;
 
 fn main() {
     println!("Hello, world!");
